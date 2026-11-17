@@ -83,8 +83,7 @@ cd /var/www/dundal && sudo -u www-data git pull
 
 ## Notes
 
-- La musique du film est une composition originale de kora synthétisée, libre de droits. Pour utiliser un autre morceau,
-  remplacez `assets/media/dundal-film.mp4` en gardant le même nom, **et seulement si vous en détenez les droits de diffusion** :
-  ce dépôt est public.
+- Musique du film : « Sadio », Toumani Diabaté (extrait à partir de 0:35). Œuvre protégée : à n'utiliser publiquement
+  qu'avec l'autorisation des ayants droit. Pour changer de musique, remplacez `assets/media/dundal-film.mp4` en gardant le même nom.
 - Les chiffres proviennent du *Dossier de validation d'entreprise DUNDAL®, version finale du 16 novembre 2026*.
   Les montants sont en FCFA ; les hypothèses non encore vérifiées sont signalées comme telles dans les diapositives.
